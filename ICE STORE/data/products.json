@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Zapatilla Runner X",
+      "price": 79990,
+      "stock": 5,
+      "image_url": ""
+    },
+    {
+      "id": "2",
+      "name": "Trainer Y",
+      "price": 65990,
+      "stock": 3,
+      "image_url": ""
+    },
+    {
+      "id": "3",
+      "name": "Sneaker Z",
+      "price": 89990,
+      "stock": 4,
+      "image_url": ""
+    },
+    {
+      "id": "4",
+      "name": "Sport W",
+      "price": 49990,
+      "stock": 2,
+      "image_url": ""
+    },
+    {
+      "id": "5",
+      "name": "Retro 4 Pine green",
+      "price": 219990,
+      "stock": 10,
+      "image_url": "images/images.jpeg"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "email": "admin@admin.cl",
+      "password": "admin"
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "123K"
+    },
+    {
+      "email": "k9408278@gmail.com",
+      "password": "mamasamamasa10K"
+    },
+    {
+      "email": " @",
+      "password": "V1"
+    },
+    {
+      "email": "@",
+      "password": "A1"
+    },
+    {
+      "email": "vicenteb2005@gmail.com",
+      "password": "VICENTE2005"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "orders": [
+    {
+      "id": "20250502132619",
+      "user": "anonymous",
+      "items": [
+        {
+          "id": "5",
+          "qty": 1
+        }
+      ],
+      "shipping": {},
+      "payment_method": "MACH",
+      "discount_code": null,
+      "total": 219990,
+      "discounted_total": 219990,
+      "date": "2025-05-02T13:26:19.695932"
+    },
+    {
+      "id": "20250502132855",
+      "user": "123@gmail.com",
+      "items": [
+        {
+          "id": "5",
+          "qty": 1
+        }
+      ],
+      "shipping": {},
+      "payment_method": "BancoEstado",
+      "discount_code": null,
+      "total": 219990,
+      "discounted_total": 219990,
+      "date": "2025-05-02T13:28:55.155822"
+    },
+    {
+      "id": "20250506113033",
+      "user": "k9408278@gmail.com",
+      "items": [
+        {
+          "id": "5",
+          "qty": 1
+        }
+      ],
+      "shipping": {},
+      "payment_method": "MACH",
+      "discount_code": null,
+      "total": 219990,
+      "discounted_total": 219990,
+      "date": "2025-05-06T11:30:33.830139"
+    }
+  ]
+}
