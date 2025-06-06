@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin-001",
+    "rut": "11111111-1",
+    "email": "admin@sistema.com",
+    "password": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f",
+    "type": "admin",
+    "name": "Administrador del Sistema",
+    "created_at": "2024-01-01T00:00:00"
+  }
+]

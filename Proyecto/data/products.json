@@ -1,0 +1,24 @@
+[
+  {
+    "id": "0c9d6723-6cf9-426d-853a-246baa30311f",
+    "name": "Netflix por un mes",
+    "description": "netflix",
+    "price": 10000.0,
+    "stock": 4,
+    "category": "cuentas",
+    "image_path": "data\\product_images\\product_20250606120458.jpg",
+    "supplier_id": "80c1091e-2c3a-4e4e-895a-7c97f71adfc2",
+    "created_at": "2025-06-06T12:05:01.270812"
+  },
+  {
+    "id": "802dee40-674f-496a-8d70-8a27cdd63fd0",
+    "name": "Pan",
+    "description": "Kilo",
+    "price": 1000.0,
+    "stock": 9,
+    "category": "Comida",
+    "image_path": null,
+    "supplier_id": "339a8110-bf18-4aa8-aadb-6f033c126075",
+    "created_at": "2025-06-06T12:48:04.805552"
+  }
+]

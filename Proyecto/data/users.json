@@ -1,0 +1,46 @@
+[
+  {
+    "id": "80c1091e-2c3a-4e4e-895a-7c97f71adfc2",
+    "rut": "21564621-1",
+    "email": "cuentas@gmail.com",
+    "password": "e4ffe26df1d2ff15d89bcbaa473f687e2e7b6f45786f4e2cab6c7bb2018fa953",
+    "type": "proveedor",
+    "name": "Perezito21",
+    "created_at": "2025-06-06T12:04:00.981257",
+    "store_name": "Cuentas Netflix",
+    "store_description": "Vendemos las mejores cuentas",
+    "contact_phone": "+56932703333",
+    "updated_at": "2025-06-06T12:04:34.655826"
+  },
+  {
+    "id": "94b43a8d-021b-47bc-bf47-e500b287e6e3",
+    "rut": "11130854-3",
+    "email": "joaco@gmail.cl",
+    "password": "1b8badc2a033cf93f82683f33a97dda7034bc5c5336d3542db72105970294014",
+    "type": "cliente",
+    "name": "Joaquin Carrillo Soto",
+    "created_at": "2025-06-06T12:09:20.720184"
+  },
+  {
+    "id": "339a8110-bf18-4aa8-aadb-6f033c126075",
+    "rut": "21906089-0",
+    "email": "vicenteb2005@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "type": "proveedor",
+    "name": "Vicente",
+    "created_at": "2025-06-06T12:11:29.767816",
+    "store_name": "Amasando",
+    "store_description": "panes",
+    "contact_phone": "",
+    "updated_at": "2025-06-06T12:23:07.278711"
+  },
+  {
+    "id": "91829265-3893-4cd4-9ccc-252bf042dba9",
+    "rut": "227372680",
+    "email": "clienteprueba@gmail.com",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+    "type": "cliente",
+    "name": "yo",
+    "created_at": "2025-06-06T12:50:05.374385"
+  }
+]

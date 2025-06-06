@@ -1,0 +1,30 @@
+[
+  {
+    "id": "f673c636-8130-438d-aa14-48201c80aaee",
+    "customer_id": "94b43a8d-021b-47bc-bf47-e500b287e6e3",
+    "items": [
+      {
+        "product_id": "0c9d6723-6cf9-426d-853a-246baa30311f",
+        "quantity": 1,
+        "price": 10000.0,
+        "subtotal": 10000.0
+      }
+    ],
+    "total_amount": 10000.0,
+    "date": "2025-06-06T12:09:47.135625"
+  },
+  {
+    "id": "e3983bf3-983f-41fe-83a6-ae51badc49ab",
+    "customer_id": "91829265-3893-4cd4-9ccc-252bf042dba9",
+    "items": [
+      {
+        "product_id": "802dee40-674f-496a-8d70-8a27cdd63fd0",
+        "quantity": 1,
+        "price": 1000.0,
+        "subtotal": 1000.0
+      }
+    ],
+    "total_amount": 1000.0,
+    "date": "2025-06-06T12:50:28.450361"
+  }
+]
